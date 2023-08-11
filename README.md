@@ -2,4 +2,4 @@
 <br>
 <p> BackEnd developer (mainly) and hobby hacker, rarely update my public repos <p/>
 
-On current job i work with: java, postgres, plsql, c++, Qt, flutter and dart 
+On current job i work with: java, postgres, plsql, c++, Qt, flutter, and dart 
